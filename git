@@ -1,3 +1,3 @@
-git add cm.sh base64.h base64.cpp main.cpp CMakeLists.txt git
+git add cm.sh base64.h base64.cpp main.cpp CMakeLists.txt git README.md
 git commit -m "first commit"
 git push -u origin main
